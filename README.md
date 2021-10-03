@@ -1,7 +1,7 @@
 # Jumangi-3-Space-Exploration
 The game will work best on 1366 X 768 resolution
 
-# JFirst release of the game
+# First release of the game
 # Summary
 Utilizing Unity’s 2D game engine, we built a fun and educational video game to teach players space exploration and its challenges. Players explore space by jumping on platforms and trying their best not to fall. As they advance, they reach farther celestial destinations, starting from the ISS to the Moon to the rest of the solar system and beyond. At each celestial object the player visits, info on the object and challenges astronauts might face during exploration (i.e., lack of navigational aids and delayed communications) will be displayed. Our project is important as it can be enjoyed by all age groups, but it’s essential for educating generations about space travel and its challenges.
 
